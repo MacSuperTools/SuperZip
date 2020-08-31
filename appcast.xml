@@ -12,11 +12,11 @@
             <pubDate>Wed, 10 April 2020 19:58:11 +0000</pubDate>
             <enclosure
                 url="https://github.com/MyColourfulLife/Update/blob/master/Update.app.zip"
-                sparkle:shortVersionString="1.2"
-                sparkle:version="2020.04.10"
-                length="4945096"
+                <!-- sparkle:shortVersionString="1.2" -->
+                sparkle:version="1.2"
+                length="9621824"
                 type="application/octet-stream"
-                sparkle:edSignature="8jomTVaWC7p3rxgNW8xXlRK2oe4eyFQiJ9+oknCIoKrH8+sF7jy2xQ+Mx37F00WenDBuOIy2ymD3nTQuQkyOCw=="
+                sparkle:edSignature="c2ussdxLYs9LOfcRWj3vqXUbSl8dOk6wWgRCGvM7IAaG3AeCJBRzd+wxtGFDa8gAH7N9w+GpW8OdB6jpwZDNDA=="
             />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
