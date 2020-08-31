@@ -7,11 +7,11 @@
         <item>
             <title>Version 1.2</title>
             <sparkle:releaseNotesLink>
-                https://www.baidu.com
+                https://www.jianshu.com/p/afb0c146bc7f.html
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 10 April 2020 19:58:11 +0000</pubDate>
             <enclosure
-                url="https://github.com/MacSuperTools/SuperZipFree/blob/master/test.zip"
+                url="https://github.com/MacSuperTools/SuperZipFree/blob/master/test.zip" 
                 sparkle:version="1.2"
                 length="4592867"
                 type="application/octet-stream"
