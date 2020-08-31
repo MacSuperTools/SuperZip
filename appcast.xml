@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>My Test App</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.2</title>
+            <sparkle:releaseNotesLink>
+                http://www.baidu.com
+            </sparkle:releaseNotesLink>
+            <pubDate>Wed, 10 April 2020 19:58:11 +0000</pubDate>
+            <enclosure
+                url="https://github.com/MyColourfulLife/Update/blob/master/Update.app.zip"
+                sparkle:shortVersionString="1.2"
+                sparkle:version="2020.04.10"
+                length="4945096"
+                type="application/octet-stream"
+                sparkle:edSignature="8jomTVaWC7p3rxgNW8xXlRK2oe4eyFQiJ9+oknCIoKrH8+sF7jy2xQ+Mx37F00WenDBuOIy2ymD3nTQuQkyOCw=="
+            />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
