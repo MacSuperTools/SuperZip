@@ -14,9 +14,9 @@
                 url="https://github.com/MyColourfulLife/Update/blob/master/Update.app.zip"
                 <!-- sparkle:shortVersionString="1.2" -->
                 sparkle:version="1.2"
-                length="9621824"
+                length="4592867"
                 type="application/octet-stream"
-                sparkle:edSignature="c2ussdxLYs9LOfcRWj3vqXUbSl8dOk6wWgRCGvM7IAaG3AeCJBRzd+wxtGFDa8gAH7N9w+GpW8OdB6jpwZDNDA=="
+                sparkle:edSignature="a4FTsmhmHBxoLoBRfutLaWrAUnTp3BPyyAGRKyouluLjKMkbiuuUq3nJsbkH2hL/GzQMlR/17eKBkvZXudiYBA=="
             />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
