@@ -7,12 +7,11 @@
         <item>
             <title>Version 1.2</title>
             <sparkle:releaseNotesLink>
-                http://www.baidu.com
+                https://www.baidu.com
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 10 April 2020 19:58:11 +0000</pubDate>
             <enclosure
                 url="https://github.com/MacSuperTools/SuperZipFree/blob/master/test.zip"
-                <!-- sparkle:shortVersionString="1.2" -->
                 sparkle:version="1.2"
                 length="4592867"
                 type="application/octet-stream"
