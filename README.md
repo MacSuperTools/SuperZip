@@ -1,2 +1,1 @@
-# SuperZipFree
-SuperZipFree edition
+# SuperZip
