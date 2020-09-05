@@ -3,7 +3,7 @@ Superzip can manage files conveniently. It can be used not only as a file packag
 
 
 ## Superzip supports packaging, compression and decompression of almost all common archive format files, and supports batch operation. Its main functions include:
-1. Support 7z, zip, tar, XZ, gzip, bZIP common format compression
+* Support 7z, zip, tar, XZ, gzip, bZIP common format compression
 2. Support the decompression of common formats such as 7z, zip, rar, tar, XZ, gzip, bZIP, lzip, LZMA, etc
 3. Support file compression function, volume compression, encryption compression, file name encryption, reduce file space occupation, file privacy and security
 4. Support file packaging (uncompressed) function, support volume packaging, encryption packaging, file name encryption, file privacy and security
