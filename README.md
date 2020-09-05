@@ -28,6 +28,7 @@ Superzip can manage files conveniently. It can be used not only as a file packag
 * Powerful and practical right-click menu function, easy to operate.
 
 ## Downloads
+- [SuperZip Free edition](https://github.com/MacSuperTools/SuperZip/releases)
 - [SuperZip Lite edition](https://apps.apple.com/cn/app/superzip/id1526875687?l=en&mt=12)
 - [SuperZip Standard edition](https://apps.apple.com/cn/app/superzip/id1519412320?l=en&mt=12)
 
