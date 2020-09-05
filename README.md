@@ -27,4 +27,8 @@ Superzip can manage files conveniently. It can be used not only as a file packag
 * Support slide mode to play pictures, flexible setting of playback interval time
 * Powerful and practical right-click menu function, easy to operate.
 
+## Downloads
+- [SuperZip Lite edition](https://apps.apple.com/cn/app/superzip/id1526875687?l=en&mt=12)
+- [SuperZip Standard edition](https://apps.apple.com/cn/app/superzip/id1519412320?l=en&mt=12)
+
 ## With the passage of time and the efforts of developers, I believe that superzip will become an indispensable tool software for you!
