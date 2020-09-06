@@ -1,3 +1,5 @@
+<a><img src="https://user-images.githubusercontent.com/2488011/65576278-55cccc80-df7a-11e9-8db5-244e2afa3e46.png" width="100%" /></a>
+
 # SuperZip
 Superzip can manage files conveniently. It can be used not only as a file packaging, compression and decompression tool, but also as an image preview and processing tool, PDF document reading tool, as well as the production and preview tool of privacy and encrypted archives.
 
