@@ -1,6 +1,6 @@
 <a><img src="https://raw.githubusercontent.com/MacSuperTools/SuperZip/master/Screen%20Shot%201.png" width="50%" /><img src="https://raw.githubusercontent.com/MacSuperTools/SuperZip/master/Screen%20Shot%203.png" width="50%" /></a>
 
-# SuperZip
+# [SuperZip](https://apps.apple.com/cn/developer/xian-zhang/id568818759?l=en)
 Superzip can manage files conveniently. It can be used not only as a file packaging, compression and decompression tool, but also as an image preview and processing tool, PDF document reading tool, as well as the production and preview tool of privacy and encrypted archives.
 
 
